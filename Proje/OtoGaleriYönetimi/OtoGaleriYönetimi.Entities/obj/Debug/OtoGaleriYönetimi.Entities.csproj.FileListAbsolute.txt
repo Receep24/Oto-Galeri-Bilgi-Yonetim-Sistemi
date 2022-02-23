@@ -1,0 +1,11 @@
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\bin\Debug\OtoGaleriYönetimi.Entities.dll
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\bin\Debug\OtoGaleriYönetimi.Entities.pdb
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\obj\Debug\OtoGaleriYönetimi.Entities.csproj.AssemblyReference.cache
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\obj\Debug\OtoGaleriYönetimi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\obj\Debug\OtoGaleriYönetimi.Entities.dll
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\obj\Debug\OtoGaleriYönetimi.Entities.pdb
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\bin\Debug\OtoGaleriYönetimi.Entities.dll.config
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ozkar\Desktop\Proje\OtoGaleriYönetimi\OtoGaleriYönetimi.Entities\bin\Debug\EntityFramework.SqlServer.xml
